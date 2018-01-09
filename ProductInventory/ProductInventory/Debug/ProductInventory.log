@@ -1,0 +1,3 @@
+﻿  ProductInventory.cpp
+c:\users\abid\onedrive\c++\productinventory\productinventory\productinventory.cpp(300): warning C4018: '<': signed/unsigned mismatch
+  ProductInventory.vcxproj -> C:\Users\Abid\OneDrive\C++\ProductInventory\Debug\ProductInventory.exe
